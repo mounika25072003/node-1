@@ -1,0 +1,11 @@
+send Request 
+GET http://localhost:3010/todos/?status=T0%20D0
+
+### 
+
+GET http://localhost:3010/todos/?priority=HIGH
+
+###
+
+GET http://localhost:3010/todos/?status=T0%20D0
+
